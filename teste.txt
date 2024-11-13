@@ -1,0 +1,2 @@
+arquivo de teste
+modificado apos ser adicionado a stage
